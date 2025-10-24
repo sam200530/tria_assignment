@@ -6,7 +6,7 @@ This app allows users to add, edit, delete, search, and sort contacts — all st
 ---
 
 ## Live Demo
-Deployed on Vercel: [[https://your-vercel-app-url.vercel.app](https://tria-assignment-ufsn.vercel.app/)]([https://your-vercel-app-url.vercel.app](https://tria-assignment-ufsn.vercel.app/))
+Deployed on Vercel: [[https://your-vercel-app-url.vercel.app](https://tria-assignment-ufsn.vercel.app/)]
 
 ---
 
@@ -47,4 +47,5 @@ npm install
 
 # 3. Start the development server
 npm run dev
+
 
