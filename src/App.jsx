@@ -5,8 +5,8 @@ import SearchBar from "./components/SearchBar";
 
 export default function App() {
   const sampleContacts = [
-    { id: 1, name: "Aarav Mehta", phone: "9876543210", email: "aarav@tria.com", tag: "Frequent" },
-    { id: 2, name: "Diya Sharma", phone: "9123456789", email: "diya@tria.com", tag: "Recent" },
+    { id: 1, name: "ram", phone: "9246643111", email: "ram@emial.com", tag: "Frequent" },
+    { id: 2, name: "Dev", phone: "9123456789", email: "dev@tria.com", tag: "Recent" },
   ];
 
   const [contacts, setContacts] = useState(() => {
