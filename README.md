@@ -6,12 +6,10 @@ This app allows users to add, edit, delete, search, and sort contacts — all st
 ---
 
 ## Live Demo
-Deployed on Vercel: [https://your-vercel-app-url.vercel.app](https://your-vercel-app-url.vercel.app)
+Deployed on Vercel: [[https://your-vercel-app-url.vercel.app](https://tria-assignment-ufsn.vercel.app/)]([https://your-vercel-app-url.vercel.app](https://tria-assignment-ufsn.vercel.app/))
 
 ---
 
-## Source Code
-GitHub Repository: [https://github.com/your-username/tria-react-contacts](https://github.com/your-username/tria-react-contacts)
 
 ---
 
@@ -49,3 +47,4 @@ npm install
 
 # 3. Start the development server
 npm run dev
+
